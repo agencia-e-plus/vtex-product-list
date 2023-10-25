@@ -1,6 +1,6 @@
 import type { Item } from 'vtex.checkout-graphql'
 
-export const items: Array<Item & { index: number }> = [
+export const items: Array<Omit<Item, 'isGift'> & { index: number }> = [
   {
     index: 0,
     additionalInfo: {
