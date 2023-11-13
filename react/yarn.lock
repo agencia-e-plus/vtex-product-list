@@ -3054,6 +3054,10 @@ growly@^1.3.0:
   resolved "https://registry.yarnpkg.com/growly/-/growly-1.3.0.tgz#f10748cbe76af964b7c96c93c6bcc28af120c081"
   integrity sha1-8QdIy+dq+WS3yWyTxrzCivEgwIE=
 
+"gruposoares.product-list@https://c0823000282--gruposoares.myvtex.com/_v/private/typings/linked/v1/gruposoares.product-list@0.37.2+build1699044500/public/@types/gruposoares.product-list":
+  version "0.37.2"
+  resolved "https://c0823000282--gruposoares.myvtex.com/_v/private/typings/linked/v1/gruposoares.product-list@0.37.2+build1699044500/public/@types/gruposoares.product-list#1a89151292480fcec3f9b6a5dc9f6de8aacdc57f"
+
 gud@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/gud/-/gud-1.0.0.tgz#a489581b17e6a70beca9abe3ae57de7a499852c0"
@@ -6000,6 +6004,10 @@ vtex-tachyons@^3.2.0:
   version "0.7.0"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.formatted-price@0.7.0/public/@types/vtex.formatted-price#345e34745d9c4ad469a125c1e6f4c99267ba0c8c"
 
+"vtex.native-types@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.native-types@0.10.1/public/@types/vtex.native-types":
+  version "0.10.1"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.native-types@0.10.1/public/@types/vtex.native-types#7ddf7f34265f8902dfad93d3a13021108023a584"
+
 "vtex.on-view@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.on-view@1.0.0/public/@types/vtex.on-view":
   version "1.0.0"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.on-view@1.0.0/public/@types/vtex.on-view#916225c5bdf7efdcaeef79928a6706b74154813a"
@@ -6011,6 +6019,10 @@ vtex-tachyons@^3.2.0:
 "vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.2/public/@types/vtex.render-runtime":
   version "8.134.2"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.2/public/@types/vtex.render-runtime#ae69e2b2a471291c6c6b155e17510150fbfc2d0e"
+
+"vtex.search-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.57.0/public/@types/vtex.search-graphql":
+  version "0.57.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.57.0/public/@types/vtex.search-graphql#c7ed352e8d3d94f9caa212c631b28fc715391f91"
 
 "vtex.store-icons@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store-icons@0.18.0/public/@types/vtex.store-icons":
   version "0.18.0"

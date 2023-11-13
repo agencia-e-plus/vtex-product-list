@@ -1,0 +1,14 @@
+query GetCommertialOffer($skuId: ID!) {
+  product(identifier: { field: sku, value: $skuId })
+    @context(provider: "vtex.search-graphql") {
+    items {
+      itemId
+      sellers {
+        commertialOffer {
+          ListPrice
+          Price
+        }
+      }
+    }
+  }
+}

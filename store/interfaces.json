@@ -73,6 +73,9 @@
   "unit-price": {
     "component": "UnitPrice"
   },
+  "unit-price-box": {
+    "component": "UnitPriceBox"
+  },
   "price": {
     "component": "Price",
     "preview": {

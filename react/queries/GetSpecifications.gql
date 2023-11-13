@@ -1,0 +1,22 @@
+query GetSpecifications($skuId: ID!) {
+  product(identifier: { field: sku, value: $skuId })
+    @context(provider: "vtex.search-graphql") {
+    specificationGroups {
+      name
+      specifications {
+        name
+        values
+      }
+    }
+
+    items {
+      itemId
+      sellers {
+        commertialOffer {
+          ListPrice
+          Price
+        }
+      }
+    }
+  }
+}
