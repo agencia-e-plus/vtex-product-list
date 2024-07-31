@@ -1,6 +1,8 @@
 import type { Item } from 'vtex.checkout-graphql'
 
-export const items: Array<Omit<Item, 'isGift'> & { index: number }> = [
+type ItemWithoutGift = Omit<Item, 'isGift'>
+export const items: Array<ItemWithoutGift & { index: number }> = [
+  // @ts-ignore
   {
     index: 0,
     additionalInfo: {
@@ -25,6 +27,7 @@ export const items: Array<Omit<Item, 'isGift'> & { index: number }> = [
     offerings: [],
     attachments: [],
   },
+  // @ts-ignore
   {
     index: 1,
     additionalInfo: {
@@ -49,6 +52,7 @@ export const items: Array<Omit<Item, 'isGift'> & { index: number }> = [
     offerings: [],
     attachments: [],
   },
+  // @ts-ignore
   {
     index: 2,
     additionalInfo: {

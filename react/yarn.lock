@@ -3054,9 +3054,9 @@ growly@^1.3.0:
   resolved "https://registry.yarnpkg.com/growly/-/growly-1.3.0.tgz#f10748cbe76af964b7c96c93c6bcc28af120c081"
   integrity sha1-8QdIy+dq+WS3yWyTxrzCivEgwIE=
 
-"gruposoares.product-list@https://c0823000282--gruposoares.myvtex.com/_v/private/typings/linked/v1/gruposoares.product-list@0.37.2+build1699044500/public/@types/gruposoares.product-list":
-  version "0.37.2"
-  resolved "https://c0823000282--gruposoares.myvtex.com/_v/private/typings/linked/v1/gruposoares.product-list@0.37.2+build1699044500/public/@types/gruposoares.product-list#1a89151292480fcec3f9b6a5dc9f6de8aacdc57f"
+"gruposoares.product-list@http://gruposoares.vtexassets.com/_v/public/typings/v1/gruposoares.product-list@0.38.0/public/@types/gruposoares.product-list":
+  version "0.38.0"
+  resolved "http://gruposoares.vtexassets.com/_v/public/typings/v1/gruposoares.product-list@0.38.0/public/@types/gruposoares.product-list#c1ce52fb37626f34dde71ab5ff31e2b1a9684220"
 
 gud@^1.0.0:
   version "1.0.0"
@@ -5980,9 +5980,9 @@ vtex-tachyons@^3.2.0:
   resolved "https://registry.yarnpkg.com/vtex-tachyons/-/vtex-tachyons-3.2.2.tgz#e9e39d939778ef7d80a92c476cecf7417f79a6e8"
   integrity sha512-4M53uuvV+2XEjplVYiPgpBuaI5dtGksVgz/20NNjbZkXklJM7Lwgod/hOoh3PtIn36+95zZVVgXYfs3e6EU8YA==
 
-"vtex.checkout-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.checkout-graphql@0.66.3/public/@types/vtex.checkout-graphql":
-  version "0.66.3"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.checkout-graphql@0.66.3/public/@types/vtex.checkout-graphql#a0a8bc4e91627678877ea3b8b59f003aa5887002"
+"vtex.checkout-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.checkout-graphql@0.67.1/public/@types/vtex.checkout-graphql":
+  version "0.67.1"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.checkout-graphql@0.67.1/public/@types/vtex.checkout-graphql#28a28b8e5b1f39e45ac7fd57a06f05a2468e192e"
 
 "vtex.css-handles@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@0.4.4/public/@types/vtex.css-handles":
   version "0.4.4"
@@ -6020,9 +6020,9 @@ vtex-tachyons@^3.2.0:
   version "8.134.2"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.2/public/@types/vtex.render-runtime#ae69e2b2a471291c6c6b155e17510150fbfc2d0e"
 
-"vtex.search-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.57.0/public/@types/vtex.search-graphql":
-  version "0.57.0"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.57.0/public/@types/vtex.search-graphql#c7ed352e8d3d94f9caa212c631b28fc715391f91"
+"vtex.search-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.61.0/public/@types/vtex.search-graphql":
+  version "0.61.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.61.0/public/@types/vtex.search-graphql#f0a3f360f0a74fd380363e1565a9c1efb86aa03c"
 
 "vtex.store-icons@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store-icons@0.18.0/public/@types/vtex.store-icons":
   version "0.18.0"
